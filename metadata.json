@@ -1,0 +1,7 @@
+{
+  "name": "Airline Management App",
+  "description": "A comprehensive airline management application for staff to manage flights and for passengers to view real-time flight information and interact with an AI voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
